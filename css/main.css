@@ -6,7 +6,7 @@ html {
 .btn-ghost {
   text-decoration: none;
   border-color: #fff;
-  background-color: #fff;
+  color: #fff;
 }
 
 .btn-ghost:hover {
