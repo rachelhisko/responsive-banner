@@ -1,15 +1,27 @@
 html {
-  font-family:  "Georgia", sans-serif;
+  font-family:  "Georgia", serif;
 
 }
 
 .btn-ghost {
   text-decoration: none;
   border-color: #fff;
-  background-color:
+  background-color: #fff;
 }
 
 .btn-ghost:hover {
   background-color: #fff;
   border-color: #fff;
+}
+
+@media only screen and (min-width: 25em) {
+
+}
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 90em) {
+
 }
