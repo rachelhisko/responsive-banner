@@ -1,2 +1,15 @@
 html {
   font-family:  "Georgia", sans-serif;
+
+}
+
+.btn-ghost {
+  text-decoration: none;
+  border-color: #fff;
+  background-color:
+}
+
+.btn-ghost:hover {
+  background-color: #fff;
+  border-color: #fff;
+}
